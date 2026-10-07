@@ -1,0 +1,9 @@
+spandrel>=0.4.2
+spandrel_extra_arches>=0.2
+gradio>=6.0
+facexlib>=0.3
+opencv-python-headless
+pillow
+numpy
+tqdm
+imageio-ffmpeg

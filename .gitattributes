@@ -1,0 +1,5 @@
+# 在 Windows clone 也保持正確換行：shell 腳本必須是 LF，否則 WSL 無法執行
+* text=auto
+*.sh text eol=lf
+*.py text eol=lf
+*.bat text eol=crlf

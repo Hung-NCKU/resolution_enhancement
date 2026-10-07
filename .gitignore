@@ -1,0 +1,11 @@
+# 模型權重（約 2 GB，執行時自動下載）
+models/
+*.part
+# 輸出與測試檔
+outputs/
+test_out/
+samples/
+# Python
+__pycache__/
+*.pyc
+.venv/
